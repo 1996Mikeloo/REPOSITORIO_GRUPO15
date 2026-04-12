@@ -1,5 +1,6 @@
 # REPOSITORIO_GRUPO15
 Actividad grupal Grupo 15
 
-##Hola
+## Papers
+Se añade la careta papers y con papers .doc
 
