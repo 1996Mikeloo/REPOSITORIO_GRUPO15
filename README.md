@@ -8,7 +8,7 @@ Así, se ha realizado el presente estudio, que tiene por objetivo analizar la di
 Este repositorio surge para almacenar y gestionar toda la bibliografía consultada, datos obtenidos e informes y resultados conseguidos
 
 ## Papers
-Se añade la careta papers y con papers .doc
+Se añade la carpeta papers y con papers .doc
 ## Carpeta de análisis de resultados de ddPCR
 Se añade las análisis de las mutaciones mediante digital droplet PCR (ddPCR) en granulocitos, linfocitos B, linfocitosT, células NK y monocitos.
 
