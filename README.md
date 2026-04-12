@@ -16,3 +16,6 @@ Se añade las análisis de las mutaciones mediante digital droplet PCR (ddPCR) e
 Se crea carpeta de imágenes y con un fichero adjunto.
 ## Resultados secuenciación pacientes
 Se crea la carpeta para almacenar los resultados en formato FASTA de la secuenciación de los 10 pacientes
+
+## Carpeta de scripts de R
+Se crea carpeta para scripts de R con estadística de los datos obtenidos y plots. 
