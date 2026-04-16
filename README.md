@@ -24,8 +24,8 @@ Figuras y gráficos del estudio.
 Informe final del proyecto. 
 
 ## Herramientas utilizadas
-ddPCR (Bio-Rad Laboratories)
-Secuenciación NGS (Illumina) 
+ddPCR (Bio-Rad Laboratories)<br>
+Secuenciación NGS (Illumina)<br> 
 Analísis estadístico (R studio)
 
 ## Autores
