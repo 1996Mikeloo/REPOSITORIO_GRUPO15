@@ -12,15 +12,15 @@ El presente estudio, tiene por objetivo analizar la distribución y dinámica de
 ## Contenido del repositorio
 ### Papers
 Artículos científicos consultados en formato .pdf
-### Resultados de secuenciación
+### Resultados de secuenciación pacientes
 Archivos en formato FASTA de la secuenciación de los pacientes seleccionados, usados para la detección de las mutaciones al inicio del proyecto. 
-### Resultados de ddPCR
+### Resultados de ddPCR (_Excels Resultado ddPCR_)
 Resultados del análisis de mutaciones obtenidos mediante ddPCR (_digital droplet PCR_) para los diferentes subtipos celulares, en formato .xlsx
-### Análisis estadístico
+### Análisis estadístico (_Scripts de R_)
 Scripts utilizados para la realización del análisis estadístico y obtención de los plots en formato .R
 ### Imágenes
 Figuras y gráficos del estudio. 
-### Informe final 
+### Informe final (_Informe_final_)
 Informe final del proyecto. 
 
 ## Herramientas utilizadas
